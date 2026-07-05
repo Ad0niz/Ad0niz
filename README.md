@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, World! :)
 
-<!--
-**Ad0niz/Ad0niz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Adoniss**, a final-year Computer Engineering student from Chile, passionate about creating intuitive and engaging user experiences through front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I enjoy exploring different areas of software development and cybersecurity, I find myself most inspired by building interfaces that are both functional and visually appealing.
+
+I enjoy turning ideas into interactive experiences, solving problems through code, and continuously learning new technologies.
+
+## 🌎 Languages
+
+- 🇨🇱 Spanish (Native)
+- 🇺🇸 English (Advanced)
+
+## ✨ To know me more
+
+When I'm bored, you'll probably find me playing video games, exploring new technologies, or learning something new. About anything to be honest.
