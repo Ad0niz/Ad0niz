@@ -10,8 +10,8 @@ I enjoy turning ideas into interactive experiences, solving problems through cod
 
 ## 🌎 Languages
 
-- 🇨🇱 Spanish (Native)
-- 🇺🇸 English (Advanced)
+- Spanish (Native)
+- English (Advanced)
 
 ## ✨ To know me more
 
