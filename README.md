@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/?/image_202624_215030.png" alt="Banner" width="100%">
+  <img src="%3F/image_202624_215030.png" alt="Banner" width="100%">
 </p>
 
 ## About me
